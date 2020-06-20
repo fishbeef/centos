@@ -3,3 +3,4 @@ COPY payload /data/payload
 COPY license /data/lic
 COPY program /data/prog
 CMD ["date"]
+CMD ["time"]
